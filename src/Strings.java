@@ -24,7 +24,6 @@ public class Strings {
     }
 
     public static void Task3() {
-        int testVar = 32;
         System.out.println("Задача 3");
         String fullName = "Иванов Семён Семёнович";
         System.out.println(fullName);
